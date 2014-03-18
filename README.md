@@ -1,7 +1,7 @@
 Description
 ===========
 
-Playground for my game concept on with Three.js
+Playground for my game concept build on top Three.js
 
 Installation
 ============
