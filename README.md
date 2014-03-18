@@ -1,5 +1,7 @@
-js-game-snake-threejs
-=====================
+Description
+===========
+
+Playground for my game concept on with Three.js
 
 Installation
 ============
