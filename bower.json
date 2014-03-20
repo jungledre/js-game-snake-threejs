@@ -20,6 +20,8 @@
   ],
   "dependencies": {
     "requirejs": null,
+    "requirejs-text": null,
+    "requirejs-plugins": null,
     "three.js": null
   }
 }
