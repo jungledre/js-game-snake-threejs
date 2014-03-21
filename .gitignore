@@ -1,3 +1,4 @@
 node_modules
 js/vendor
 index.html
+.DS_Store
